@@ -22,5 +22,5 @@ const greet = function(str){
 }
 
 const displayMessage = function(str){
-  
+  document.getElementById("greeting").innerText = str 
 }
