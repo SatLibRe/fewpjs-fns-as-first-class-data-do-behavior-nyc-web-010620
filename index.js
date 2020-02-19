@@ -20,3 +20,7 @@ const greet = function(str){
     return "Good Evening"
   }
 }
+
+const displayMessage = function(str){
+  
+}
